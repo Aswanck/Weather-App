@@ -1,16 +1,16 @@
-# weatherapi
+Weather_App
 
-A new Flutter project.
+A Simple flutter App fetch Weather details from OpenWeather Api using http package and delivers to the ui.
 
-## Getting Started
+It shows weather details of specific city you wanted
+Misspell the city name leads to simple warning message 
+An Image will be available for the result, and it  will change according to weather conditions.
 
-This project is a starting point for a Flutter application.
+Lets search and have fun...😁
 
-A few resources to get you started if this is your first Flutter project:
+Things i have learned through this journey💡:
+-> Api integration
+-> Error handling
+-> Usage of custom package(http)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
